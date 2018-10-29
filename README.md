@@ -1,9 +1,11 @@
 # -Heuristic-Programming
  Implement a knowledge-based system using a decision tree as its knowledge base using  j48, weka
-Read Me
+
 
 This program is written using j48 and Weka.
+
 For Compiling Decision tree follow the following steps
+
 At the beginning user will be asked to provide the training and test files in .arff format. 
 
 Enter training file name
