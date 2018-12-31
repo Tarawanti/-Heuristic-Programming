@@ -243,11 +243,3 @@ while(selection != 6)
    
 }
 
-//C:\Users\TK\Desktop\2-Master\AI\P1-3265\TestingFiles\weather.nominal.arff
-//C:\Users\TK\Desktop\2-Master\AI\P1-3265\TestingFiles\weather.nomina-testl.arff
-
-//C:/Users/TK/Desktop/weather.nomina-testl.arff
-//C:/Users/TK/Desktop/weather.nominal.arff
-//C:/Users/TK/Desktop/Dtree.arff
-//C:/Users/TK/Desktop/Btree.arff
-//C:\Users\TK\Desktop\GA
